@@ -1,7 +1,7 @@
 import map from "./map";
 import reduce from "./reduce";
-import expect from "./test";
 import getProductDetails from "./promise";
+import expect from "./test";
 
 console.log(
   "Map function",
