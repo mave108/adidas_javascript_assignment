@@ -1,2 +1,2 @@
-# adidas_javascript_assignment
+# Adidas Javascript Assignment
 Created with CodeSandbox
