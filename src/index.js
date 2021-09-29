@@ -1,6 +1,7 @@
 import map from "./map";
 import reduce from "./reduce";
 import getProductDetails from "./promise";
+import calcString from "./calculator";
 import expect from "./test";
 
 console.log(
@@ -32,3 +33,5 @@ getProductDetails(123)
   .then((allData) => {
     console.log("data combined", allData);
   });
+
+console.log("calculator", calcString("3-3+2+3"));
